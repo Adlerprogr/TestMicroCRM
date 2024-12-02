@@ -836,7 +836,7 @@
 2. Клонируйте репозиторий:
 
    ```bash
-   git clone git@github.com:Adlerprogr/ApiUsers.git
+   git clone git@github.com:Adlerprogr/TestMicroCRM.git
    ```
 
 3. Настройте файл `.env`:
